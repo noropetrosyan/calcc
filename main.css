@@ -10,7 +10,7 @@ box-sizing: border-box;
 .calculator{
     width: 350px;
     height: 600px;
-    background-color: brown;
+    background-color: rgb(165, 42, 61);
     margin: 50px auto;
     padding: 20px;
     border-radius: 30px;
